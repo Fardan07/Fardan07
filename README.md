@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building responsive and accessible web apps using Next.js & React<br>👯 I’m looking to collaborate on: Open-source frontend tools, creative websites, or UI libraries<br>🤝 I’m looking for help with: Advanced CSS animations, web performance, and state management<br>🌱 I’m currently learning: Modern frontend architecture, TypeScript, and micro-frontends<br>💬 Ask me about: Next.js, responsive layouts, Tailwind CSS, or clean UI/UX<br>⚡ Fun fact: I inspect element websites just to admire their grid and typography
+🔭 Hello!, I’m currently working on: Building responsive and accessible web apps using Next.js & React<br>👯 I’m looking to collaborate on: Open-source frontend tools, creative websites, or UI libraries<br>🤝 I’m looking for help with: Advanced CSS animations, web performance, and state management<br>🌱 I’m currently learning: Modern frontend architecture, TypeScript, and micro-frontends<br>💬 Ask me about: Next.js, responsive layouts, Tailwind CSS, or clean UI/UX<br>⚡ Fun fact: I inspect element websites just to admire their grid and typography
 
 
 ## 🌐 Socials:
